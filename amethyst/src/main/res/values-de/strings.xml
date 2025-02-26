@@ -120,9 +120,7 @@
     <string name="ln_address">LN-Adresse</string>
     <string name="ln_url_outdated">LN-URL (veraltet)</string>
     <string name="save_to_gallery">In die Galerie abspeichern</string>
-    <string name="image_saved_to_the_gallery">Bild in der Gal
-
-erie gespeichert</string>
+    <string name="image_saved_to_the_gallery">Bild in der Galerie gespeichert</string>
     <string name="video_download_has_started_toast">Der Videodownload wurde gestartet…</string>
     <string name="media_download_has_started_toast">Der Mediendownload wurde gestartet…</string>
     <string name="failed_to_save_the_image">Fehler beim Speichern des Bildes</string>
